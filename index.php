@@ -765,13 +765,13 @@
 						<div class="panel panel-default">
 							<div class="panel-heading">
 								<h4 class="panel-title">
-									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseSerenity">
+									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseAnthology">
 										Anthology Gateway
 									</a>
 								</h4>
 							</div>
 
-							<div id="collapseSerenity" class="panel-collapse">
+							<div id="collapseAnthology" class="panel-collapse">
 								<div class="panel-body">
 									<div class="row resume-entry">
 										<div class="col-sm-12 resume-entry-content">
@@ -813,34 +813,6 @@
 								</div>
 							</div>
 						</div>
-
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<h4 class="panel-title">
-									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseR17">
-										STARFLEET Region 17
-									</a>
-								</h4>
-							</div>
-
-							<div id="collapseR17" class="panel-collapse">
-								<div class="panel-body">
-									<div class="row resume-entry">
-										<div class="col-sm-12 resume-entry-content">
-											<p class="resume-entry-subtitle"><a href="http://region17.org/wordpress/">region17.org</a></p>
-											<p class="resume-entry-details">
-												A Wordpress installation, mostly to provide information with a blog that will be updated seldom.
-												<br /><br /><strong>Status</strong>: In Progress
-												<br /><strong>Application Details</strong>: Using WordPress.
-												<br /><strong>Design Details</strong>: Using a WordPress template for the theme.  Modified by myself for the look and content.
-											</p>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-
-
 
 						<div class="panel panel-default">
 							<div class="panel-heading">
