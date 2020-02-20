@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Jon Zenor - Web Developer &amp; ISSM</title>
+		<title>Jon Zenor - Cyber Security Specialist &amp; Web Programmer</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 		<!-- Bootstrap -->
@@ -22,7 +22,7 @@
 			<!-- Page Header -->
 			<div class="row resume-header">
 				<div class="col-xs-12 col-sm-8 resume-title">
-					<h1>Jonathan Zenor<br /><small>Information Systems Security Officer, Web Application Programmer, &amp; Author</small></h1>
+					<h1>Jonathan Zenor<br /><small>Cyber Security Specialist (Alternate ISSM), Web Application Programmer, &amp; Author</small></h1>
 				</div>
 				<div class="col-xs-12 col-sm-4 resume-contact">
 					<br /><strong>Phone:</strong> 719.266.2648<br />
@@ -44,7 +44,7 @@
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<a class="navbar-brand" href="/">JZ</a>
+							<a class="navbar-brand" href="https://jonzenor.com">JZ</a>
 						</div>
 
 						<!-- Navigation Links -->
@@ -62,11 +62,11 @@
 			<!-- Resume Introduction -->
 			<div class="row resume-intro">
 				<div class="col-sm-12">
-					<p>Hello, my name is <strong>Jon Zenor</strong>, and I am a <strong>ISSO</strong>, <strong>Tech Geek</strong>, <strong>Web Application Programmer</strong>, and <strong>Author</strong>.</p>
+					<p>Hello, my name is <strong>Jon Zenor</strong>, and I am a <strong>Cyber security Specialist</strong>, <strong>Web Application Programmer</strong>, and <strong>Author</strong>.</p>
 					<p>
-					I have worked on UNIX systems consistently since 2003, designed websites since 1998, and created Web based applications since 2004. I have had experience in several technical fields, such as Windows, UNIX, and Linux System Administration (Sys Admin), radio and satellite communications, writing technical documentation and fiction, and computer security. <!-- However my real passion lies in programming. I love watching a program come together and then seeing users interacting with what I helped create.//--></p>
+					I have worked on UNIX systems consistently since 2003, designed websites since 1998, and created Web based applications since 2004. I have had experience in various fields of technology, such as Windows, UNIX, and Linux System Administration (Sys Admin), radio and satellite communications, writing technical documentation, and computer security. <!-- However my real passion lies in programming. I love watching a program come together and then seeing users interacting with what I helped create.//--></p>
 					<p>
-					I learn new things quickly and can jump into a new environment and start working with minimal assistance. I also enjoy writing scripts and applications help make life easier for those around me. I believe that the future of our technology and software development lies in the Cloud and Web-based applications, so if I find a way to integrate web applications with my job then I try to make use of it.
+					I learn new things quickly and can jump into a new environment and start working with minimal assistance. I also enjoy writing scripts and applications help make life easier for those around me. I believe that the future of our technology and software development lies in the Cloud and Web-based applications, so if I find a way to integrate web applications with my job then I try to make use of it. Or really any type of programming that I can do to help others.
 					</p>
 				</div>
 			</div>			
@@ -77,6 +77,31 @@
 				<div class="col-sm-12">
 					<h2 class="resume-content-header">Work Experience</h2>
 					<hr class="header-bar" />
+
+
+					<div class="row resume-entry">
+						<div class="col-sm-3 resume-entry-date">
+							<span class="visible-xs">2016 - Present</span>
+							<span class="hidden-xs">April 2016 - Present</span>
+						</div>
+						<div class="col-sm-9 resume-entry-content">
+							<p class="resume-entry-title">Cyber Security Specialist / Alternate Infrormation Systems Security Manager (ISSM)</p>
+							<p class="resume-entry-subtitle">Northrop Grumman</p>
+							<p class="resume-entry-details">
+								Maintained the security posture of over <a href="#" rel="tooltip" data-toggle="tooltip" title="RHEL, Windows 2012, Windows 7, CentOS">200 workstations and servers</a> &bull; 
+								Performed weekly audits manually, using in-house scripts that I created, and <a href="#" rel="tooltip" data-toggle="tooltip" title="Enterprise level SIEM tool">Splunk</a> and <a href="#" rel="tooltip" data-toggle="tooltip" title="Elastic Search, Logstash, and Kibana suite of tools">ELK</a> &bull; 
+								Regular SCAP scans &bull; 
+								Classified Hard Drive audit on 500 drives with <a href="#" rel="tooltip" data-toggle="tooltip" title="Tracked location of every hard drive by serial number and control number. When drives moved systems, shipped off site, or were replaced we had to update multiple records, which requried a lot of attention to detail but ensured that we knew where our drives were.">99% accuracy</a> &bull;
+								Assisted with the transition to <a href="#" rel="tooltip" data-toggle="tooltip" title="Risk Management Framework">RMF</a> &bull;
+								Increased efficiency of user and team processes by integrating <a href="#" rel="tooltip" data-toggle="tooltip" title="User account request and data transfer tracking forms">various forms</a> into Sharepoint Workflows using InfoPath &bull;
+								Took over as Alternate ISSM in 2018 &bull;
+								Maintain RMF accreditations for multiple accreciting authorities &bull;
+								Create and Maintain site level policies to be inherited by other systems &bull;
+								Create and Manage <a href="#" rel="tooltip" data-toggle="tooltip" title="Plan of Actions & Milestones">POAM</a> items, including weekly meetings with program to ensure continued progress &bull;
+								Tested system for security complaince using Nessus scanner, SCAP Compliance Checker, and STIG Viewer
+							</p>
+						</div>
+					</div>
 
 					
 					<div class="row resume-entry">
@@ -100,27 +125,6 @@
 						</div>
 					</div>
 
-
-
-					<div class="row resume-entry">
-						<div class="col-sm-3 resume-entry-date">
-							<span class="visible-xs">2016 - Present</span>
-							<span class="hidden-xs">April 2016 - Present</span>
-						</div>
-						<div class="col-sm-9 resume-entry-content">
-							<p class="resume-entry-title">Information Systems Security Officer / Manager (ISSO/ISSM)</p>
-							<p class="resume-entry-subtitle">Northrop Grumman</p>
-							<p class="resume-entry-details">
-								Maintained the security posture of over <a href="#" rel="tooltip" data-toggle="tooltip" title="RHEL, Windows 2012, Windows 7, CentOS">200 workstations and servers</a> &bull; 
-								Performed weekly audits manually, using in-house scripts that I created, and <a href="#" rel="tooltip" data-toggle="tooltip" title="Enterprise level SIEM tool">Splunk</a> &bull; 
-								Regular SCAP scans &bull; 
-								Classified Hard Drive audit on 500 drives with <a href="#" rel="tooltip" data-toggle="tooltip" title="Tracked location of every hard drive by serial number and control number. When drives moved systems, shipped off site, or were replaced we had to update multiple records, which requried a lot of attention to detail but ensured that we knew where our drives were.">99% accuracy</a> &bull;
-								Assisted with the transition to <a href="#" rel="tooltip" data-toggle="tooltip" title="Risk Management Framework">RMF</a> &bull;
-								Increased efficiency of user and team processes by integrating <a href="#" rel="tooltip" data-toggle="tooltip" title="User account request and data transfer tracking forms">various forms</a> into Sharepoint Workflows using InfoPath &bull;
-								Took over as primary ISSM in 2018
-							</p>
-						</div>
-					</div>
 
 
 					<div class="row resume-entry">
@@ -297,8 +301,29 @@
 
 				<!-- BEGIN Education -->
 				<div class="col-sm-8 col-xs-12">
-					<h2 class="resume-content-header">Education</h2>
+					<h2 class="resume-content-header">Education &amp; Certifications</h2>
 					<hr />
+
+					<div class="row resume-entry">
+						<div class="col-sm-3 resume-entry-date">
+							<span>2020</span>
+						</div>
+						<div class="col-sm-9 resume-entry-content">
+							<p class="resume-entry-title">CAP <small>Certified Authorization Professional</p>
+							<p class="resume-entry-details"><strong>Completed</strong>: February 2020</p>
+						</div>
+					</div>
+
+					<div class="row resume-entry">
+						<div class="col-sm-3 resume-entry-date">
+							<span>2013</span>
+						</div>
+						<div class="col-sm-9 resume-entry-content">
+							<p class="resume-entry-title">Security +</p>
+							<p class="resume-entry-details"><strong>Completed</strong>: December 2013</p>
+						</div>
+					</div>
+
 
 					<div class="row resume-entry">
 						<div class="col-sm-3 resume-entry-date">
@@ -338,8 +363,8 @@
 								<a href="#" rel="tooltip" data-toggle="tooltip" title="2004">Windows Server</a> &bull;
 								<a href="#" rel="tooltip" data-toggle="tooltip" title="2013">HP Blade Systems</a> &bull;
 								<a href="#" rel="tooltip" data-toggle="tooltip" title="2007">HP OpenView</a> &bull;
-								<a href="#" rel="tooltip" data-toggle="tooltip" title="2013">Security +</a> &bull;
 								<a href="#" rel="tooltip" data-toggle="tooltip" title="2015">VMWare</a>
+								<a href="#" rel="tooltip" data-toggle="tooltip" title="2016">ACAS</a>
 							</p>
 						</div>
 					</div>
@@ -534,6 +559,15 @@
 					<p class="resume-entry-title">Computer Technology &amp; Security</p>
 
 					<div class="col-sm-12">
+						RMF
+						<div class="progress">
+							<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="3" aria-valuemin="0" aria-valuemax="10" style="width: 75%">
+								<span>Knowledgeable</span>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-sm-12">
 						UNIX / Linux Administrator
 						<div class="progress">
 							<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="8" aria-valuemin="0" aria-valuemax="10" style="width: 70%">
@@ -545,7 +579,7 @@
 					<div class="col-sm-12">
 						Cisco Networking
 						<div class="progress">
-							<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="7" aria-valuemin="0" aria-valuemax="10" style="width: 70%">
+							<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="7" aria-valuemin="0" aria-valuemax="10" style="width: 60%">
 								<span>Strong</span>
 							</div>
 						</div>
@@ -554,7 +588,7 @@
 					<div class="col-sm-12">
 						LDAP / IPA
 						<div class="progress">
-							<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="7" aria-valuemin="0" aria-valuemax="10" style="width: 70%">
+							<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="7" aria-valuemin="0" aria-valuemax="10" style="width: 60%">
 								<span>Strong</span>
 							</div>
 						</div>
@@ -563,17 +597,8 @@
 					<div class="col-sm-12">
 						WAN Communications
 						<div class="progress">
-							<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="7" aria-valuemin="0" aria-valuemax="10" style="width: 70%">
+							<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="7" aria-valuemin="0" aria-valuemax="10" style="width: 60%">
 								<span>Strong</span>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-sm-12">
-						RMF
-						<div class="progress">
-							<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="3" aria-valuemin="0" aria-valuemax="10" style="width: 60%">
-								<span>Knowledgeable</span>
 							</div>
 						</div>
 					</div>
