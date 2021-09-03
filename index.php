@@ -483,8 +483,8 @@
 
 					<div class="row resume-entry">
 						<div class="col-sm-3 resume-entry-date">
-							<span class="hidden-xs">March 2005 - Present</span>
-							<span class="visible-xs">2005 - Present</span>
+							<span class="hidden-xs">March 2005 - 2015</span>
+							<span class="visible-xs">2005 - 2015</span>
 						</div>
 						<div class="col-sm-9 resume-entry-content">
 							<p class="resume-entry-title">Webmaster &amp; Content Writer</p>
