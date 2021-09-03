@@ -78,11 +78,42 @@
 					<h2 class="resume-content-header">Work Experience</h2>
 					<hr class="header-bar" />
 
+					<div class="row resume-entry">
+						<div class="col-sm-3 resume-entry-date">
+							<span class="visible-xs">2021 - Present</span>
+							<span class="hidden-xs">July 2021 - Present</span>
+						</div>
+						<div class="col-sm-9 resume-entry-content">
+							<p class="resume-entry-title">System Administrator Team Lead</p>
+							<p class="resume-entry-subtitle">Northrop Grumman</p>
+							<p class="resume-entry-details">
+								Manage multiple program priorities and directives by creating systems to track the tasks and communicating with team members on the status of all tasks. &bull; 
+								Instituted the use of a Kanban board to organize larger project and individual tasks being worked among multiple team members. &bull;
+							</p>
+						</div>
+					</div>
 
 					<div class="row resume-entry">
 						<div class="col-sm-3 resume-entry-date">
-							<span class="visible-xs">2016 - Present</span>
-							<span class="hidden-xs">April 2016 - Present</span>
+							<span class="visible-xs">2020 - 2021</span>
+							<span class="hidden-xs">July 2020 - July 2021</span>
+						</div>
+						<div class="col-sm-9 resume-entry-content">
+							<p class="resume-entry-title">RHEL System Administrator</p>
+							<p class="resume-entry-subtitle">Northrop Grumman</p>
+							<p class="resume-entry-details">
+								Maintain a network of <a href="#" rel="tooltip" data-toggle="tooltip" title="RHEL 5, RHEL 6, & RHEL 7">RHEL</a>, <a href="#" rel="tooltip" data-toggle="tooltip" title="Windows 2012">Windows</a>, and Cisco equipment across SEVEN sites around the world. &bull; 
+								Provide 24-hour support for mission critical systems. &bull;
+								Provide Integration support for custom mission software deployments, ensuring a consistent build and deployment process, using Ansible, RPM, and CM documentation. &bull;
+								Planned a major system upgrade for each site, to include documenting the process and creating procedures for every major step. &bull;
+							</p>
+						</div>
+					</div>
+					
+					<div class="row resume-entry">
+						<div class="col-sm-3 resume-entry-date">
+							<span class="visible-xs">2016 - 2020</span>
+							<span class="hidden-xs">April 2016 - July 2020</span>
 						</div>
 						<div class="col-sm-9 resume-entry-content">
 							<p class="resume-entry-title">Cyber Security Specialist / Alternate Infrormation Systems Security Manager (ISSM)</p>
@@ -129,8 +160,8 @@
 
 					<div class="row resume-entry">
 						<div class="col-sm-3 resume-entry-date">
-							<span class="visible-xs">2015 - Present</span>
-							<span class="hidden-xs">October 2015 - Present</span>
+							<span class="visible-xs">2015 - 2019</span>
+							<span class="hidden-xs">October 2015 - October 2019</span>
 						</div>
 						<div class="col-sm-9 resume-entry-content">
 							<p class="resume-entry-title">CEO</p>
