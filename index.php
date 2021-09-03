@@ -433,6 +433,18 @@
 
 					<div class="row resume-entry">
 						<div class="col-sm-3 resume-entry-date">
+							<span class="hidden-xs">2015 - 2016</span>
+							<span class="visible-xs">2015 - 2016</span>
+						</div>
+						<div class="col-sm-9 resume-entry-content">
+							<p class="resume-entry-title">HOA Board Member</p>
+							<p class="resume-entry-subtitle">Local Home Owners Association Board Member</p>
+							<p class="resume-entry-details">Joined the board for the local HOA. Attended meetings and helped with budget planning and policy changes.</p>
+						</div>
+					</div>
+
+					<div class="row resume-entry">
+						<div class="col-sm-3 resume-entry-date">
 							<span class="hidden-xs">February - August 2014</span>
 							<span class="visible-xs">2014</span>
 						</div>
