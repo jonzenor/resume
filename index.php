@@ -87,8 +87,9 @@
 							<p class="resume-entry-title">System Administrator Team Lead</p>
 							<p class="resume-entry-subtitle">Northrop Grumman</p>
 							<p class="resume-entry-details">
-								Manage multiple program priorities and directives by creating systems to track the tasks and communicating with team members on the status of all tasks. &bull; 
-								Instituted the use of a Kanban board to organize larger project and individual tasks being worked among multiple team members. &bull;
+								Manage multiple program priorities and directives by creating systems to track the tasks and communicating with team members on the status of all tasks &bull; 
+								Instituted the use of a Kanban board to organize larger project and individual tasks being worked among multiple team members &bull;
+								Everything else listed under the RHEL System Administrator work experience
 							</p>
 						</div>
 					</div>
@@ -102,10 +103,11 @@
 							<p class="resume-entry-title">RHEL System Administrator</p>
 							<p class="resume-entry-subtitle">Northrop Grumman</p>
 							<p class="resume-entry-details">
-								Maintain a network of <a href="#" rel="tooltip" data-toggle="tooltip" title="RHEL 5, RHEL 6, & RHEL 7">RHEL</a>, <a href="#" rel="tooltip" data-toggle="tooltip" title="Windows 2012">Windows</a>, and Cisco equipment across SEVEN sites around the world. &bull; 
-								Provide 24-hour support for mission critical systems. &bull;
-								Provide Integration support for custom mission software deployments, ensuring a consistent build and deployment process, using Ansible, RPM, and CM documentation. &bull;
-								Planned a major system upgrade for each site, to include documenting the process and creating procedures for every major step. &bull;
+								Maintain a network of <a href="#" rel="tooltip" data-toggle="tooltip" title="RHEL 5, RHEL 6, & RHEL 7">RHEL</a>, <a href="#" rel="tooltip" data-toggle="tooltip" title="Windows 2012">Windows</a>, and Cisco equipment across SEVEN sites around the world &bull; 
+								Provide 24-hour support for mission critical systems &bull;
+								Provide Integration support for custom mission software deployments, ensuring a consistent build and deployment process, using Ansible, RPM, and CM documentation &bull;
+								Planned a major system upgrade for each site, to include documenting the process and creating procedures for every major step &bull;
+								Troubleshoot mission software problems to assist the developers, using strace and log parsing. 
 							</p>
 						</div>
 					</div>
