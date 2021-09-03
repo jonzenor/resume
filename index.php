@@ -715,6 +715,11 @@
 					<hr />
 
 					<div class="col-sm-12">
+						<p class="resume-entry-title">Cult of the Alpaca</p>
+						<p class="resume-entry-subtitle">2020 &bull; Midnight Writers' Society</p>
+					</div>
+					
+					<div class="col-sm-12">
 						<p class="resume-entry-title">Rogue Admin</p>
 						<p class="resume-entry-subtitle">2018 &bull; Midnight Writers' Society</p>
 					</div>
@@ -746,7 +751,6 @@
 						<p class="resume-entry-title">Rite of Passage</p>
 						<p class="resume-entry-subtitle">2015 &bull; J.L. Zenor</p>
 					</div>
-
 
 
 				<!-- END Second Collumn -->
