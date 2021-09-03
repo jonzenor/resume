@@ -409,8 +409,8 @@
 
 					<div class="row resume-entry">
 						<div class="col-sm-3 resume-entry-date">
-							<span class="hidden-xs">December 2016 - Present</span>
-							<span class="visible-xs">2016</span>
+							<span class="hidden-xs">December 2016 - July 2020</span>
+							<span class="visible-xs">2016 - 2020 </span>
 						</div>
 						<div class="col-sm-9 resume-entry-content">
 							<p class="resume-entry-title">ISSM WG Recorder</p>
@@ -427,7 +427,7 @@
 						<div class="col-sm-9 resume-entry-content">
 							<p class="resume-entry-title">General Radio Operator</p>
 							<p class="resume-entry-subtitle">HAM (Amateur) Radio Operator</p>
-							<p class="resume-entry-details">Passed the exams for, and was awarded the Technician class and General class Amateur Radio Operator Licenses.</p>
+							<p class="resume-entry-details">Passed the exams for, and was awarded the Technician class and General class Amateur Radio Operator Licenses. -- KE0ZNR</p>
 						</div>
 					</div>
 
