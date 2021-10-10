@@ -22,7 +22,7 @@
 			<!-- Page Header -->
 			<div class="row resume-header">
 				<div class="col-xs-12 col-sm-8 resume-title">
-					<h1>Jonathan Zenor<br /><small>Cyber Security Specialist (Alternate ISSM), Web Application Programmer, &amp; Author</small></h1>
+					<h1>Jonathan Zenor<br /><small>System Administrator, Web Application Engineer, Cyber Security Specialist, &amp; Author</small></h1>
 				</div>
 				<div class="col-xs-12 col-sm-4 resume-contact">
 					<br /><strong>Phone:</strong> 719.266.2648<br />
@@ -62,11 +62,11 @@
 			<!-- Resume Introduction -->
 			<div class="row resume-intro">
 				<div class="col-sm-12">
-					<p>Hello, my name is <strong>Jon Zenor</strong>, and I am a <strong>Cyber security Specialist</strong>, <strong>Web Application Programmer</strong>, and <strong>Author</strong>.</p>
+					<p>Hello, my name is <strong>Jon Zenor</strong>, and I am a <strong>System Administrator</strong>, <strong>Web Application Engineer</strong>, <strong>Cyber security Specialist</strong>, and <strong>Author</strong>.</p>
 					<p>
-					I have worked on UNIX systems consistently since 2003, designed websites since 1998, and created Web based applications since 2004. I have had experience in various fields of technology, such as Windows, UNIX, and Linux System Administration (Sys Admin), radio and satellite communications, writing technical documentation, and computer security. <!-- However my real passion lies in programming. I love watching a program come together and then seeing users interacting with what I helped create.//--></p>
+					I have worked on UNIX and Linux systems consistently since 2003, designed websites since 1998, and created Web based applications since 2004. I have had experience in various fields of technology, such as Windows, UNIX, and Linux System Administration (Sys Admin), radio and satellite communications, writing technical documentation, and computer security. <strong>My real passion</strong>, however, lies in programming. I love watching a web application come together and then seeing users interacting with what I helped create and finding interesting ways to solve customer problems with custom software.</p>
 					<p>
-					I learn new things quickly and can jump into a new environment and start working with minimal assistance. I also enjoy writing scripts and applications help make life easier for those around me. I believe that the future of our technology and software development lies in the Cloud and Web-based applications, so if I find a way to integrate web applications with my job then I try to make use of it. Or really any type of programming that I can do to help others.
+					I learn new things quickly and can jump into a new environment and start working with minimal assistance. I also enjoy writing scripts and applications help make life easier for those around me. I believe that the future of our technology and software development lies in the Cloud and Web-based applications, so if I find a way to integrate web applications with my job then I try to make use of it. Or really any type of programming that I can create to help others.
 					</p>
 				</div>
 			</div>			
@@ -84,11 +84,10 @@
 							<span class="hidden-xs">July 2021 - Present</span>
 						</div>
 						<div class="col-sm-9 resume-entry-content">
-							<p class="resume-entry-title">System Administrator Team Lead</p>
+							<p class="resume-entry-title">System Administrator Team Lead - JTAGS</p>
 							<p class="resume-entry-subtitle">Northrop Grumman</p>
 							<p class="resume-entry-details">
-								Manage multiple program priorities and directives by creating systems to track the tasks and communicating with team members on the status of all tasks &bull; 
-								Instituted the use of a Kanban board to organize larger project and individual tasks being worked among multiple team members &bull;
+								Manage program priorities &bull; Organize team tasks &bull; Organized team building events &bull; Created Kanban Board &bull; Follow up with team members on individual projects &bull; Provided cover for all projects when a team member went on vacation &bull; Started an intiative to create procedures for all mission critical tasks &bull; Managing team tasks with daily shift program priorities &bull;
 								Everything else listed under the RHEL System Administrator work experience
 							</p>
 						</div>
@@ -100,11 +99,11 @@
 							<span class="hidden-xs">July 2020 - July 2021</span>
 						</div>
 						<div class="col-sm-9 resume-entry-content">
-							<p class="resume-entry-title">RHEL System Administrator</p>
+							<p class="resume-entry-title">RHEL System Administrator - JTAGS</p>
 							<p class="resume-entry-subtitle">Northrop Grumman</p>
 							<p class="resume-entry-details">
 								Maintain a network of <a href="#" rel="tooltip" data-toggle="tooltip" title="RHEL 5, RHEL 6, & RHEL 7">RHEL</a>, <a href="#" rel="tooltip" data-toggle="tooltip" title="Windows 2012">Windows</a>, and Cisco equipment across SEVEN sites around the world &bull; 
-								Provide 24-hour support for mission critical systems &bull;
+								Provide 24-hour support for life-saving mission critical systems &bull;
 								Provide Integration support for custom mission software deployments, ensuring a consistent build and deployment process, using Ansible, RPM, and CM documentation &bull;
 								Planned a major system upgrade for each site, to include documenting the process and creating procedures for every major step &bull;
 								Troubleshoot mission software problems to assist the developers, using strace and log parsing. 
@@ -139,8 +138,8 @@
 					
 					<div class="row resume-entry">
 						<div class="col-sm-3 resume-entry-date">
-							<span class="visible-xs">2017 - Present</span>
-							<span class="hidden-xs">June 2017 - Present</span>
+							<span class="visible-xs">2017 - 2019</span>
+							<span class="hidden-xs">June 2017 - April 2019</span>
 						</div>
 						<div class="col-sm-9 resume-entry-content">
 							<p class="resume-entry-title">Senior Software Engineer</p>
@@ -168,7 +167,7 @@
 						<div class="col-sm-9 resume-entry-content">
 							<p class="resume-entry-title">CEO</p>
 							<p class="resume-entry-subtitle">The Midnight Writers</p>
-							<p class="resume-entry-details">Started a partnership business with one other person and five total board members with the goal of helping local authors publishing an annual anthology and sell those anthologies at local conventions. I organize and manage the team to ensure all work is completed on schedule and as a result we have published professional quality work (<a href="https://amzn.to/2LLx37K">Domesticated Velociraptors</a>). We also organized various author events around the community.
+							<p class="resume-entry-details">Started a partnership business with one other person and five total board members with the goal of helping local authors publishing an annual anthology and sell those anthologies at local conventions. I organize and manage the team to ensure all work is completed on schedule and as a result we have published professional quality work (<a href="https://amzn.to/2LLx37K">Domesticated Velociraptors</a>, <a href="https://www.amazon.com/dp/1723765872/ref=cm_sw_em_r_mt_dp_H7NNC3ABJTZYGDF1AEC9">Last Shot Fired</a>, <a href="https://read.amazon.com/kp/embed?asin=B085ZLN18C&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_V1AFTG4AHHZ0CXT7YMKY">Welcome to the Alpacalypse</a>). We also organized various author events around the community.
 							</p>
 						</div>
 					</div>
@@ -244,6 +243,29 @@
 						</div>
 					</div>
 
+					<div class="row resume-entry">
+						<div class="col-sm-3 resume-entry-date">
+							<span class="visible-xs">2006 - 2001</span>
+							<span class="hidden-xs">June 2006 - Dec 2011</span>
+						</div>
+						<div class="col-sm-9 resume-entry-content">
+							<p class="resume-entry-title">Hardware Technician</p>
+							<p class="resume-entry-subtitle">Northrop Grumman</p>
+							<p class="resume-entry-details">
+								<a href="#" rel="tooltip" data-toggle="tooltip" title="Troubleshoot &amp; repair Midrange Servers, such as SunFire V440, V890, SGI Tezro, SGI 350, and SGI 3000 servers.">Midrange servers</a> &bull;
+								<a href="#" rel="tooltip" data-toggle="tooltip" title="Troubleshoot network communication equipment between sites over T-1, OC-3, and OC-92 lines with encryption devices in the path.">Network Communications</a> &bull;
+								<a href="#" rel="tooltip" data-toggle="tooltip" title="Inventoried, loaded, and troubleshot 50+ encryption devices for a COMSEC program that always past inspections with flying colors.">COMSEC</a> &bull;
+								<a href="#" rel="tooltip" data-toggle="tooltip" title="Performed maintenance on satellite systems, from the dish all the way to the data end point, using spectrum analyzers and other equipment to ensure a clean signal and to troubleshoot problems.">Satellite Communications</a> &bull;
+								<a href="#" rel="tooltip" data-toggle="tooltip" title="Created scripts to notify other Hardware Techs of system changes so they could proactively correct problems.">Scripts</a> &bull;
+								<a href="#" rel="tooltip" data-toggle="tooltip" title="Used HP OpenView to track system changes.  Attended an HP class on OpenView.">HP OpenView</a> &bull;
+								Application Development (<a href="#" rel="tooltip" data-toggle="tooltip" title="Assisted with the creation of a web based application that would communicate with satellite ground system devices and allow for configuring the devices. Created with PHP and Joomla for the front end, and Perl scripts for hardware control.">Satellite Ground Controller</a>) &bull;
+								<a href="#" rel="tooltip" data-toggle="tooltip" title="Briefed customers, including high ranking officers, on the ongoing status of problems and our efforts to correct it.">Customer Support</a> &bull;
+								<a href="#" rel="tooltip" data-toggle="tooltip" title="Verified and made changes to network and rack drawings to ensure they matched the delivered system cabeling, hardware baseline, network layout, and cable ID numbers.">Quality Assurance</a> &bull;
+								<a href="#" rel="tooltip" data-toggle="tooltip" title="Created Approximately 30 Standard Operating Procedures (SOPs) to assist the Hardware Team in doing tasks quickly and to standardize maintenance procedures.">Technical Writer</a>
+							</p>
+						</div>
+					</div>
+
 
 					<div class="row resume-entry">
 						<div class="col-sm-3 resume-entry-date">
@@ -279,29 +301,6 @@
 						</div>
 					</div>
 
-
-					<div class="row resume-entry">
-						<div class="col-sm-3 resume-entry-date">
-							<span class="visible-xs">2006 - 2001</span>
-							<span class="hidden-xs">June 2006 - Dec 2011</span>
-						</div>
-						<div class="col-sm-9 resume-entry-content">
-							<p class="resume-entry-title">Hardware Technician</p>
-							<p class="resume-entry-subtitle">Northrop Grumman</p>
-							<p class="resume-entry-details">
-								<a href="#" rel="tooltip" data-toggle="tooltip" title="Troubleshoot &amp; repair Midrange Servers, such as SunFire V440, V890, SGI Tezro, SGI 350, and SGI 3000 servers.">Midrange servers</a> &bull;
-								<a href="#" rel="tooltip" data-toggle="tooltip" title="Troubleshoot network communication equipment between sites over T-1, OC-3, and OC-92 lines with encryption devices in the path.">Network Communications</a> &bull;
-								<a href="#" rel="tooltip" data-toggle="tooltip" title="Inventoried, loaded, and troubleshot 50+ encryption devices for a COMSEC program that always past inspections with flying colors.">COMSEC</a> &bull;
-								<a href="#" rel="tooltip" data-toggle="tooltip" title="Performed maintenance on satellite systems, from the dish all the way to the data end point, using spectrum analyzers and other equipment to ensure a clean signal and to troubleshoot problems.">Satellite Communications</a> &bull;
-								<a href="#" rel="tooltip" data-toggle="tooltip" title="Created scripts to notify other Hardware Techs of system changes so they could proactively correct problems.">Scripts</a> &bull;
-								<a href="#" rel="tooltip" data-toggle="tooltip" title="Used HP OpenView to track system changes.  Attended an HP class on OpenView.">HP OpenView</a> &bull;
-								Application Development (<a href="#" rel="tooltip" data-toggle="tooltip" title="Assisted with the creation of a web based application that would communicate with satellite ground system devices and allow for configuring the devices. Created with PHP and Joomla for the front end, and Perl scripts for hardware control.">Satellite Ground Controller</a>) &bull;
-								<a href="#" rel="tooltip" data-toggle="tooltip" title="Briefed customers, including high ranking officers, on the ongoing status of problems and our efforts to correct it.">Customer Support</a> &bull;
-								<a href="#" rel="tooltip" data-toggle="tooltip" title="Verified and made changes to network and rack drawings to ensure they matched the delivered system cabeling, hardware baseline, network layout, and cable ID numbers.">Quality Assurance</a> &bull;
-								<a href="#" rel="tooltip" data-toggle="tooltip" title="Created Approximately 30 Standard Operating Procedures (SOPs) to assist the Hardware Team in doing tasks quickly and to standardize maintenance procedures.">Technical Writer</a>
-							</p>
-						</div>
-					</div>
 
 					<div class="row resume-entry">
 						<div class="col-sm-3 resume-entry-date">
@@ -353,7 +352,7 @@
 						</div>
 						<div class="col-sm-9 resume-entry-content">
 							<p class="resume-entry-title">Security +</p>
-							<p class="resume-entry-details"><strong>Completed</strong>: December 2013</p>
+							<p class="resume-entry-details"><strong>Completed</strong>: December 2013 <strong>Last Renewed</strong>: December 2019</p>
 						</div>
 					</div>
 
@@ -371,11 +370,23 @@
 
 					<div class="row resume-entry">
 						<div class="col-sm-3 resume-entry-date">
+							<span>Fall 2009 -  Spring 2010</span>
+						</div>
+						<div class="col-sm-9 resume-entry-content">
+							<p class="resume-entry-title">Bachelor of Biblical Studies</p>
+							<p class="resume-entry-subtitle">Calvary Chapel Bible College</p>
+							<p class="resume-entry-details">Did not complete</p>
+						</div>
+					</div>
+
+					<div class="row resume-entry">
+						<div class="col-sm-3 resume-entry-date">
 							<span>2005 - 2006</span>
 						</div>
 						<div class="col-sm-9 resume-entry-content">
 							<p class="resume-entry-title">Associate of Arts <small>- Computer Systems</small></p>
 							<p class="resume-entry-subtitle">Coastline Community College</p>
+							<p class="resume-entry-details"><strong>Completed</strong>: 2006</p>
 						</div>
 					</div>
 
@@ -396,7 +407,7 @@
 								<a href="#" rel="tooltip" data-toggle="tooltip" title="2004">Windows Server</a> &bull;
 								<a href="#" rel="tooltip" data-toggle="tooltip" title="2013">HP Blade Systems</a> &bull;
 								<a href="#" rel="tooltip" data-toggle="tooltip" title="2007">HP OpenView</a> &bull;
-								<a href="#" rel="tooltip" data-toggle="tooltip" title="2015">VMWare</a>
+								<a href="#" rel="tooltip" data-toggle="tooltip" title="2015">VMWare</a> &bull;
 								<a href="#" rel="tooltip" data-toggle="tooltip" title="2016">ACAS</a>
 							</p>
 						</div>
@@ -815,6 +826,33 @@
 							<div class="panel-heading">
 								<h4 class="panel-title">
 									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseAnthology">
+										Bryler Logistics LLC
+									</a>
+								</h4>
+							</div>
+
+							<div id="collapseAnthology" class="panel-collapse">
+								<div class="panel-body">
+									<div class="row resume-entry">
+										<div class="col-sm-12 resume-entry-content">
+											<p class="resume-entry-subtitle"><a href="https://brylerlogistics.com/home">BrylerLogistics.com</a></p>
+											<p class="resume-entry-details">
+												Creating a load board to help companies find trucking carriers to ship their freight.
+												<br /><br /><strong>Status</strong>: Active Development <small>as of October 2021</small>
+												<br /><strong>Application Details</strong>: Creating using the Laravel 8 PHP framework and TDD (Test Driven Design) patterns. Frontend UI work was sub-contracted out.
+												<br /><strong>Design Details</strong>: Tailwind CSS, using Laravel Blade Templates. 
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+						<div class="panel panel-default">
+							<div class="panel-heading">
+								<h4 class="panel-title">
+									<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseAnthology">
 										Anthology Gateway
 									</a>
 								</h4>
@@ -827,7 +865,7 @@
 											<p class="resume-entry-subtitle"><a href="https://AnthologyGateway.com">AnthologyGateway.com</a></p>
 											<p class="resume-entry-details">
 												Created a central place to allow publishers to accept open calls for their anthologies, to allow team members to vote on submissions, and to handle much of the publication process.
-												<br /><br /><strong>Status</strong>: Active Development
+												<br /><br /><strong>Status</strong>: On Hold
 												<br /><strong>Application Details</strong>: Creating using the Laravel 5 PHP framework. I did have some help with testing and occasional programming help, but 99.9% of the work has been done by me.
 												<br /><strong>Design Details</strong>: Aiming for a simple and clean interface that is mobile friendly. Using Bluepring CSS to help with front-end development time.
 											</p>
@@ -853,7 +891,7 @@
 											<p class="resume-entry-subtitle"><a href="http://SerenityRoster.com">SerenityRoster.com</a></p>
 											<p class="resume-entry-details">
 												Created as an all-in-one chapter management tool for organizations. It has started with a focus on STARFLEET International chapters, but there are plans to make it more generic for other organizations later.
-												<br /><br /><strong>Status</strong>: On Hold - Awaiting time to work on project
+												<br /><br /><strong>Status</strong>: On Hold <small>- 2.0 upgrade planed for <strong>2022</strong></small>
 												<br /><strong>Application Details</strong>: Creating using the Laravel PHP framework. All functions have been custom coded by myself.
 												<br /><strong>Design Details</strong>: I have created an LCARS style theme, but am hoping a designer agrees to help with the design features of this project.
 											</p>
@@ -908,7 +946,7 @@
 											<p class="resume-entry-details">
 												A Wordpress installation that is designed to be primarily a blog.
 												<br /><br /><strong>Status</strong>: Completed in 2011, occasional updates
-												<br /><strong>Application Details</strong>: Using WordPress.
+												<br /><strong>Application Details</strong>: Using WordPress. -- 2020 Update -- Website was hacked and brought the site down. Recovered but most of the template work was lost and has not been rebuilt.
 												<br /><strong>Design Details</strong>: Using a heavily modified WordPress theme.  Content and layout done by me, the template design was done by another web designer.
 											</p>
 										</div>
