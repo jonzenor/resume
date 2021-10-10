@@ -289,7 +289,7 @@
 							<span class="hidden-xs">2008 - 2010</span>
 						</div>
 						<div class="col-sm-9 resume-entry-content">
-							<p class="resume-entry-title">CEO &amp; Chief Programming Officer</p>
+							<p class="resume-entry-title">CEO &amp; Senior Software Engineer</p>
 							<p class="resume-entry-subtitle">ZenorSoft Web Design</p>
 							<p class="resume-entry-details">
 								Started a business on the side doing Web Design work. I managed one employee, one contractor, and had four clients. &bull;
