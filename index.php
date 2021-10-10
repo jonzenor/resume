@@ -308,7 +308,7 @@
 							<span class="hidden-xs">June 2002 - June 2006</span>
 						</div>
 						<div class="col-sm-9 resume-entry-content">
-							<p class="resume-entry-title">Information Technician 3rd Class</p>
+							<p class="resume-entry-title">Information Technician 3rd Class (IT3)</p>
 							<p class="resume-entry-subtitle">U.S. Navy</p>
 							<p class="resume-entry-details">
 								<a href="#" rel="tooltip" data-toggle="tooltip" title="Setup, and maintained a UHF satellite ground system which provided Internet, Phone, and Video Teleconference support to other units while on deployments.">Satellite Communications</a> &bull;
