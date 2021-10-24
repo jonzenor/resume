@@ -85,10 +85,10 @@
 							<span class="hidden-xs">July 2021 - Present</span>
 						</div>
 						<div class="col-sm-9 resume-entry-content">
-							<p class="resume-entry-title">System Administrator Team Lead - JTAGS</p>
-							<p class="resume-entry-subtitle">Northrop Grumman</p>
+							<p class="resume-entry-title">System Administrator Team Lead</p>
+							<p class="resume-entry-subtitle">Northrop Grumman - JTAGS</p>
 							<p class="resume-entry-details">
-								Manage program priorities &bull; Organize team tasks &bull; Organized team building events &bull; Created Kanban Board &bull; Follow up with team members on individual projects &bull; Provided cover for all projects when a team member went on vacation &bull; Started an intiative to create procedures for all mission critical tasks &bull; Managing team tasks with daily shift program priorities &bull;
+								Manage program priorities &bull; Organize team tasks &bull; Organized team building events &bull; Created Kanban Board &bull; Follow up with team members on individual project status &bull; Provided cover for all projects when a team member went on vacation &bull; Started an intiative to create procedures for all mission critical tasks with the intention of reducing the number of knowledge silos on the team &bull; Managed team tasks with daily shifts in program priorities &bull;
 								Everything else listed under the RHEL System Administrator work experience
 							</p>
 						</div>
@@ -100,8 +100,8 @@
 							<span class="hidden-xs">July 2020 - July 2021</span>
 						</div>
 						<div class="col-sm-9 resume-entry-content">
-							<p class="resume-entry-title">RHEL System Administrator - JTAGS</p>
-							<p class="resume-entry-subtitle">Northrop Grumman</p>
+							<p class="resume-entry-title">RHEL System Administrator</p>
+							<p class="resume-entry-subtitle">Northrop Grumman - JTAGS</p>
 							<p class="resume-entry-details">
 								Maintain a network of <a href="#" rel="tooltip" data-toggle="tooltip" title="RHEL 5, RHEL 6, & RHEL 7">RHEL</a>, <a href="#" rel="tooltip" data-toggle="tooltip" title="Windows 2012">Windows</a>, and Cisco equipment across SEVEN sites around the world &bull; 
 								Provide 24-hour support for life-saving mission critical systems &bull;
@@ -181,7 +181,7 @@
 						</div>
 						<div class="col-sm-9 resume-entry-content">
 							<p class="resume-entry-title">LINUX Systems Administrator</p>
-							<p class="resume-entry-subtitle">Northrop Grumman</p>
+							<p class="resume-entry-subtitle">Northrop Grumman - CESC</p>
 							<p class="resume-entry-details">Managed 
 								<a href="#" rel="tooltip" data-toggle="tooltip" title="RHEL 5 &amp; 6">Red Hat Enterprise Linux (RHEL)</a> systems &bull; 
 								<a href="#" rel="tooltip" data-toggle="tooltip" title="Account Management, security auditing, DNS, and LDAP Troubleshooting">IPA</a> &bull;
@@ -224,7 +224,7 @@
 						</div>
 						<div class="col-sm-9 resume-entry-content">
 							<p class="resume-entry-title">UNIX Systems Administrator</p>
-							<p class="resume-entry-subtitle">Northrop Grumman</p>
+							<p class="resume-entry-subtitle">Northrop Grumman - SBIRS</p>
 							<p class="resume-entry-details">Managed 
 								<a href="#" rel="tooltip" data-toggle="tooltip" title="IRIX, Solaris 8 &amp; 10">UNIX</a> and 
 								<a href="#" rel="tooltip" data-toggle="tooltip" title="XP, 2000, 2008">Windows</a> systems &bull; 
@@ -251,7 +251,7 @@
 						</div>
 						<div class="col-sm-9 resume-entry-content">
 							<p class="resume-entry-title">Hardware Technician</p>
-							<p class="resume-entry-subtitle">Northrop Grumman</p>
+							<p class="resume-entry-subtitle">Northrop Grumman - SBIRS</p>
 							<p class="resume-entry-details">
 								<a href="#" rel="tooltip" data-toggle="tooltip" title="Troubleshoot &amp; repair Midrange Servers, such as SunFire V440, V890, SGI Tezro, SGI 350, and SGI 3000 servers.">Midrange servers</a> &bull;
 								<a href="#" rel="tooltip" data-toggle="tooltip" title="Troubleshoot network communication equipment between sites over T-1, OC-3, and OC-92 lines with encryption devices in the path.">Network Communications</a> &bull;
