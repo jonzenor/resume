@@ -81,8 +81,23 @@
 
 					<div class="row resume-entry">
 						<div class="col-sm-3 resume-entry-date">
-							<span class="visible-xs">2021 - Present</span>
-							<span class="hidden-xs">July 2021 - Present</span>
+							<span class="visible-xs">2022 - Present</span>
+							<span class="hidden-xs">January 2022 - Present</span>
+						</div>
+						<div class="col-sm-9 resume-entry-content">
+							<p class="resume-entry-title">Full Stack Developer</p>
+							<p class="resume-entry-subtitle">Focus on the Family</p>
+							<p class="resume-entry-details">
+								Create applications, and update existing applications, using C# DotNet &bull; SalesForce &bull; Laravel PHP. Work with integrating software with third-party APIs.
+							</p>
+						</div>
+					</div>
+
+
+					<div class="row resume-entry">
+						<div class="col-sm-3 resume-entry-date">
+							<span class="visible-xs">2021 - 2022</span>
+							<span class="hidden-xs">July 2021 - January 2022</span>
 						</div>
 						<div class="col-sm-9 resume-entry-content">
 							<p class="resume-entry-title">System Administrator Team Lead</p>
