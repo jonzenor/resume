@@ -619,6 +619,15 @@
 					</div>
 
 					<div class="col-sm-12">
+						SalesForce Apex
+						<div class="progress">
+							<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="3" aria-valuemin="0" aria-valuemax="10" style="width: 55%">
+								<span>Familiar</span>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-sm-12">
 						JavaScript
 						<div class="progress">
 							<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="3" aria-valuemin="0" aria-valuemax="10" style="width: 50%">
@@ -627,6 +636,16 @@
 						</div>
 					</div>
 
+					<div class="col-sm-12">
+						C# DotNet
+						<div class="progress">
+							<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="3" aria-valuemin="0" aria-valuemax="10" style="width: 35%">
+								<span>Familiar</span>
+							</div>
+						</div>
+					</div>
+
+					
 					<br />
 					<p class="resume-entry-title">Computer Technology &amp; Security</p>
 
