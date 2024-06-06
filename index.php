@@ -63,9 +63,9 @@
 			<!-- Resume Introduction -->
 			<div class="row resume-intro">
 				<div class="col-sm-12">
-					<p>Hello, my name is <strong>Jon Zenor</strong>, and I am a <strong>System Administrator</strong>, <strong>Web Application Engineer</strong>, <strong>Cyber security Specialist</strong>, and <strong>Author</strong>.</p>
+					<p>Hello, my name is <strong>Jon Zenor</strong>, and I do a lot of things. Mostly technical. I am a <strong>System Administrator</strong>, <strong>Web Application Engineer</strong>, <strong>Cyber Security Specialist</strong>, and <strong>Author</strong>.</p>
 					<p>
-					I have worked on UNIX and Linux systems consistently since 2003, designed websites since 1998, and created Web based applications since 2004. I have had experience in various fields of technology, such as Windows, UNIX, and Linux System Administration (Sys Admin), radio and satellite communications, writing technical documentation, and computer security. <strong>My real passion</strong>, however, lies in programming. I love watching a web application come together and then seeing users interacting with what I helped create and finding interesting ways to solve customer problems with custom software.</p>
+					I have worked on UNIX and Linux systems consistently since 2003, designed websites since 1998, and created Web based applications since 2004. I have had experience in various fields of technology, such as Windows, UNIX, and Linux System Administration (Sys Admin), radio and satellite communications, writing technical documentation, and Cyber Security <strong>My real passion</strong>, however, lies in programming. I love watching a web application come together and then seeing users interacting with what I helped create and finding interesting ways to solve customer problems with custom software.</p>
 					<p>
 					I learn new things quickly and can jump into a new environment and start working with minimal assistance. I also enjoy writing scripts and applications help make life easier for those around me. I believe that the future of our technology and software development lies in the Cloud and Web-based applications, so if I find a way to integrate web applications with my job then I try to make use of it. Or really any type of programming that I can create to help others.
 					</p>
@@ -81,14 +81,28 @@
 
 					<div class="row resume-entry">
 						<div class="col-sm-3 resume-entry-date">
-							<span class="visible-xs">2022 - Present</span>
-							<span class="hidden-xs">January 2022 - Present</span>
+							<span class="visible-xs">2023 - Present</span>
+							<span class="hidden-xs">October 2023 - Present</span>
+						</div>
+						<div class="col-sm-9 resume-entry-content">
+							<p class="resume-entry-title">Software Engineer 3</p>
+							<p class="resume-entry-subtitle">Focus on the Family</p>
+							<p class="resume-entry-details">
+								Job title changed to have more of a focus on SalesForce Apex code and Lightning Web Components. Also did work using C# DotNet &bull; Laravel PHP.
+							</p>
+						</div>
+					</div>
+					
+					<div class="row resume-entry">
+						<div class="col-sm-3 resume-entry-date">
+							<span class="visible-xs">2022 - 2023</span>
+							<span class="hidden-xs">January 2022 - October 2023</span>
 						</div>
 						<div class="col-sm-9 resume-entry-content">
 							<p class="resume-entry-title">Full Stack Developer</p>
 							<p class="resume-entry-subtitle">Focus on the Family</p>
 							<p class="resume-entry-details">
-								Create applications, and update existing applications, using C# DotNet &bull; SalesForce &bull; Laravel PHP. Work with integrating software with third-party APIs.
+								Create applications, and update existing applications, using C# DotNet &bull; Laravel PHP, &bull; Wordpress plugins. Work with integrating software with third-party APIs.
 							</p>
 						</div>
 					</div>
@@ -430,10 +444,58 @@
 					</div>
 
 
-					<!-- ########## Achievements ########## -->
+					<!-- ########## Achievements & Volunteer Experience ########## -->
 					<h2 class="resume-content-header">Achievements &amp; Volunteer Experience</h2>
 					<hr />
 
+					<div class="row resume-entry">
+						<div class="col-sm-3 resume-entry-date">
+							<span class="hidden-xs">November 2022 - Present</span>
+							<span class="visible-xs">2022 - Present </span>
+						</div>
+						<div class="col-sm-9 resume-entry-content">
+							<p class="resume-entry-title">Teller County Search and Rescue</p>
+							<p class="resume-entry-subtitle">Search and Rescue Team Member</p>
+							<p class="resume-entry-details">Assist in SAR missions as issued by the Sheriff. Hike trails to search for those that are lost or injured, assisted in litter carrying out patients. Assisted mission coordinator with comms, using HAM and other radio communications. Trained in CPR and other medical and back country specilized training. Trained in motorized vehicles such as Snow Mobiles and ATV/UTVs.</p>
+						</div>
+					</div>
+
+					<!-- Iron Council -->
+					<div class="row resume-entry">
+						<div class="col-sm-3 resume-entry-date">
+							<span class="hidden-xs">January 2022 - Present</span>
+							<span class="visible-xs">2022 - Present </span>
+						</div>
+						<div class="col-sm-9 resume-entry-content">
+							<p class="resume-entry-title">Order of Man &bull; Iron Council</p>
+							<p class="resume-entry-subtitle">Member</p>
+							<p class="resume-entry-details">Master Mind group focused around becoming a better Husband, Father, man of faith, business man, and leader. Worked with teams of men to regularly hold each other accountable and support each other.</p>
+						</div>
+					</div>
+
+					<div class="row resume-entry">
+						<div class="col-sm-3 resume-entry-date">
+							<span class="hidden-xs">Oct 2023 - Dec 2023</span>
+							<span class="visible-xs">2023 - 2023</span>
+						</div>
+						<div class="col-sm-9 resume-entry-content">
+							<p class="resume-entry-subtitle">Team Valiant Fire Team Leader</p>
+							<p class="resume-entry-details">Led a small group of 3 guys. Focused on maintining regular communication and helping the growth of the team.</p>
+						</div>
+					</div>
+
+					<div class="row resume-entry">
+						<div class="col-sm-3 resume-entry-date">
+							<span class="hidden-xs">Jan 2024 - Present</span>
+							<span class="visible-xs">2024 - Present</span>
+						</div>
+						<div class="col-sm-9 resume-entry-content">
+							<p class="resume-entry-subtitle">Team Valiant XO</p>
+							<p class="resume-entry-details">Assisted the Battle Team Leader in running the weekly calls, taking attendance, and communicating with the fire team leaders throughout the week. Did whatever was needed to support the team and BTL.</p>
+						</div>
+					</div>
+					<!-- END Iron Council -->
+								
 					<div class="row resume-entry">
 						<div class="col-sm-3 resume-entry-date">
 							<span class="hidden-xs">December 2016 - July 2020</span>
